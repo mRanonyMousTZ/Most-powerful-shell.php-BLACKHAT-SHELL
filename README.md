@@ -12,7 +12,7 @@ git clone https://github.com/mRanonyMousTZ/Most-powerful-shell.php-BLACKHAT-SHEL
 
 
 
-incase of anything ......more ethical hacking follow me https://www.youtube.com/channel/UC5SpJc-fVZ5Kb6ZHfAoZ9Sw
+
 
 
 
