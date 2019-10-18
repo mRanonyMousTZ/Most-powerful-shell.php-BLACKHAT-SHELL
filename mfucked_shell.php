@@ -692,7 +692,7 @@ document.location = '?kill=yes';
 
 <body bgcolor="black">
 <font color=red size="15px" face="tahoma">
-<h1> <p align="center"> <b>TANZANIA BLACKHATS-2018 
+<h1> <p align="center"> <b>IN GOD WE TRUST 
 <br> </h1>
 <font color=white size="5px" 
 face="tahoma">
